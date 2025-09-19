@@ -1,0 +1,20 @@
+Privacy Policy for [Prosper's Bot]
+
+At [Prospe's Bot], we respect your privacy and are committed to protecting your personal information.
+
+Information We Collect:
+- Your WhatsApp phone number
+- Messages you send to our bot
+
+How We Use Your Information:
+- To respond to your messages
+- To improve our bot's performance
+
+Data Storage:
+- We store messages securely using [Supabase DB]
+- We do not share your data with third parties
+
+Contact Us:
+If you have questions about our privacy policy, email us at [ezeprosperabuchi@gmail.com]
+
+Last updated: [19th September, 2025]
